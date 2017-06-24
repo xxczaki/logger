@@ -1,0 +1,6 @@
+C:\Users\keppi\Desktop\logger-master\Logger\bin\Debug\Logger.exe
+C:\Users\keppi\Desktop\logger-master\Logger\bin\Debug\Logger.pdb
+C:\Users\keppi\Desktop\logger-master\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\keppi\Desktop\logger-master\Logger\obj\Debug\Logger.g.resources
+C:\Users\keppi\Desktop\logger-master\Logger\obj\Debug\Logger.exe
+C:\Users\keppi\Desktop\logger-master\Logger\obj\Debug\Logger.pdb
