@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/xxczaki/logger.svg?branch=master)](https://travis-ci.org/xxczaki/logger)
 [![](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/akepinski-dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
 # Logger
@@ -27,7 +26,7 @@ To open project you need:
 
 * **Antoni Kepinski**  
 
-Check my site: www.akepinski.pl
+Check my site: www.akepinski.me
 
 ## License
 
