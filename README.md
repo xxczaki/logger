@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/xxczaki/logger.svg?branch=master)](https://travis-ci.org/xxczaki/logger)
-[![](https://img.shields.io/badge/GITTER-join%20chat-green.svg)](https://gitter.im/akepinski-dev)
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
 # Logger
@@ -32,12 +31,11 @@ Check my site: www.akepinski.me
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Support our work
+## Slack!
 
-donorbox.org/akepinski
+Please send me an email with your Slack account name and i will add you as soon as i can ;-)
 
-paypal.me/akepinski
+[![SEND!](mailto:hello@akepinski.me)
 
-More information coming soon...
 
  
