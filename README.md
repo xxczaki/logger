@@ -35,7 +35,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Please send me an email with your Slack account name and i will add you as soon as i can ;-)
 
-[![SEND!](mailto:hello@akepinski.me)
+----> hello@akepinski.me <----
 
 
  
