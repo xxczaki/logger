@@ -25,7 +25,7 @@ To open project you need:
 
 * **Antoni Kepinski**  
 
-https://akepinski.me
+Check my site: www.akepinski.me
 
 ## License
 

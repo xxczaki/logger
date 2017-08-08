@@ -1,7 +1,7 @@
 ﻿/*
  * 
- * Software by akepinski.pl
- * support@akepinski.pl
+ * Software by akepinski.me
+ * hello@akepinski.me
  * 
  */
 

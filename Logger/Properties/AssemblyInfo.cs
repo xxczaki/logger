@@ -1,7 +1,7 @@
 ﻿/*
  * 
- * Software by akepinski.pl
- * support@akepinski.pl
+ * Software by akepinski.me
+ * hello@akepinski.me
  * 
  */
 
@@ -9,7 +9,7 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("Logger")]
-[assembly: AssemblyDescription("Windows Keylogger [Kernel Based]")]
+[assembly: AssemblyDescription("Simple Windows Keylogger")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("akepinski dev.")]
 [assembly: AssemblyProduct("Logger")]
@@ -21,5 +21,5 @@ using System.Runtime.InteropServices;
 
 [assembly: Guid("9e92a883-3c8b-4572-a73e-bb3e61cfdc16")]
 
-[assembly: AssemblyVersion("1.4.0.0")]
-[assembly: AssemblyFileVersion("1.4.0.0")]
+[assembly: AssemblyVersion("1.5.0.0")]
+[assembly: AssemblyFileVersion("1.5.0.0")]

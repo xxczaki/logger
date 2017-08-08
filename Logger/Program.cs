@@ -1,7 +1,7 @@
 ﻿/*
  * 
- * Software by akepinski.pl
- * support@akepinski.pl
+ * Software by akepinski.me
+ * hello@akepinski.me
  * 
  */
 
@@ -40,7 +40,7 @@ namespace Logger
             }
             catch
             {
-                // Nie wykonuj poleceń!
+                // Don't do anything!
             }
 
             if (stealth == false)
